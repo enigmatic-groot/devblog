@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Blog!
+title: New shit that should win!!
 date: "2018-07-01"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+ Often the most groundbreaking innovations are controlled by the powerful few at the expense of the masses. Let the new shit win!!
 
 <!-- end -->
 
